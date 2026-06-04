@@ -5,11 +5,6 @@ This repository contains the implementation and supporting materials for the res
 
 ## Project Status
 - Literature Review Completed
-- Correlation Analysis Completed
-- K-Means Clustering In Progress
-- Logistic Regression Planned
-- BI Dashboard Planned
-- Web Application Planned
 
 ## Dataset
 Olist E-Commerce Dataset
